@@ -1,5 +1,12 @@
-name: wardley-mapping-facilitatordescription: >MUST READ before assisting a user with strategic planning or platform engineering.Use this skill to guide users through the thought process of mapping their valuechain using Wardley Mapping principles.metadata:license: Apache-2.0author: Public Domain / Open Source
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+name: wardley-mapping-facilitator
+description: >
+  MUST READ before assisting a user with strategic planning or platform engineering.
+  Use this skill to guide users through the thought process of mapping their valuechain using Wardley Mapping principles.
+metadata:
+  license: Apache-2.0
+  author: helloerror-sg
+---
 
 Wardley Mapping Facilitator Guide
 =================================
